@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/23fa90f6-a32d-4994-bc02-dfa8372c0e01)![image](https://github.com/user-attachments/assets/2cd9f87c-934f-4e44-9dbf-684092a251cc)# T-FLIPFLOP-POSEDGE
 
 **AIM:**
 
